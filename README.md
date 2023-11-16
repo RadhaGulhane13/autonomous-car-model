@@ -1,4 +1,4 @@
-# Autonomous_Car_Model
+# Autonomous Car Model
 This project aims to build the AI model to predict the factors such as steering angle, throttle in a real-time environment, thus reducing manual efforts to drive the car.
 
 ## How I built the model:
